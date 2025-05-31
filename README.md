@@ -10,7 +10,7 @@ Emnist dataset:
 دیتاست به صورت کامل در دو بخش ByClass و ByMerge موجود است. مجموعه داده Balanced EMNIST شامل مجموعه ای از کاراکترها با تعداد مساوی نمونه در هر کلاس است. مجموعه داده EMNIST Letters مجموعه متعادلی از حروف بزرگ و کوچک و با 26 کلاس است. مجموعه داده‌های EMNIST Digits و EMNIST MNIST مجموعه داده‌های رقمی دست‌نویس را ارائه می‌کنند که مستقیماً با مجموعه داده اصلی MNIST سازگار است.
 # Technologies
 •	Python
-•	PyTorch, NumPy
+•	PyTorch, NumPy, Pandas
 •	Matplotlib
 
 # Output:
